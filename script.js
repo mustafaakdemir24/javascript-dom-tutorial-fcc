@@ -1,1 +1,1 @@
-console.dir(document.head);
+console.log(document.forms);
